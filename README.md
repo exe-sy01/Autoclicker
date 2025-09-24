@@ -108,8 +108,7 @@ python auto_clicker.py
 ├── ⚙️ qt.conf            # Configuration file
 ├── 📄 README.md          # This file
 ├── 🐍 auto_clicker.py    # Source code
-├── 📋 requirements.txt   # Python dependencies
-└── 📖 DISTRIBUTION.md    # Distribution guide
+└── 📋 requirements.txt   # Python dependencies
 ```
 
 ---
